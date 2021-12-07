@@ -27,3 +27,4 @@ def circulate():
 ![gitlogo](guru2.png)
 
 ## Result:
+Thus the circulating values has been calculated.
